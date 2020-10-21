@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://deltafxn.github.io/blog</id>
-    <title>Cord Docs Blog</title>
+    <title>Documentation Blog</title>
     <updated>2017-10-24T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://deltafxn.github.io/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest Cord Docs news and events.</subtitle>
-    <logo>https://deltafxn.github.io/undefined</logo>
+    <subtitle>The best place to stay up-to-date with the latest Documentation news and events.</subtitle>
+    <logo>https://deltafxn.github.io/img/cord_logo.png</logo>
     <rights>Copyright © 2020 Your Name or Your Company Name</rights>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
